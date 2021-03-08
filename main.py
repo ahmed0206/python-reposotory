@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+
+
+
+
+
+def main(msg):
+   print(msg)
+main("hello world")
+   
