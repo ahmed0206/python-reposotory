@@ -1,2 +1,2 @@
-# python-reposotory
+# python-repository
 hi world
